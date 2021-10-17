@@ -1,0 +1,57 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: green;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 15px;
+}
+
+p {
+    color: green;
+    font-family: "times new roman";
+}
+ul {
+    color: green;
+    font-family: "times new roman";
+	list-style-type:none;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:focus,
+a:hover {
+    border-bottom: 1px solid;
+}
+
+a:active {
+    color: red;
+}
+footer {
+    
+    margin: 15px;
+    padding: 15px;
+}
+
+img {
+	width: 100px;
+	height :100px;	
+	float:right;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+
