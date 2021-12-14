@@ -1,0 +1,74 @@
+body {
+    background-color: yellow;
+	font-family: times new roman;
+}
+h1 {
+    color: green;
+    border: 7px solid green;
+    margin: 15px;
+    padding: 15px;
+}
+
+p {
+    color: green;
+    font-family: times new roman;
+}
+ul {
+    color: green;
+    font-family: times new roman;
+	list-style-type:none;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:focus,
+a:hover {
+    border-bottom: 1px solid;
+}
+
+a:active {
+    color: red;
+}
+footer {
+    
+    margin: 15px;
+    padding: 15px;
+}
+
+img {
+	width: 100px;
+	height :100px;	
+	float:right;
+	padding: 10px;
+	border: 5px solid green;
+}
+
+label
+{
+	display:inline-block;
+	width:25%;
+}
+
+p.boxes label
+{
+	display:inline;
+}
+
+.cinfo
+{
+	font-size:15px;
+}
+
+
